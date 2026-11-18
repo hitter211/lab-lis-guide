@@ -28,7 +28,7 @@ Full legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 ## Commercial use and companion materials
 
-If you wish to use this documentation commercially, or need the companion laboratory information-system quality-record templates, contact us via a GitHub Issue / Discussion, or via WeChat `dynn2018` / QQ `2536811576` (add "LIS" to the friend request).
+If you wish to use this documentation commercially, or need the companion laboratory information-system quality-record templates, contact us by email at `2536811576@qq.com`, via a GitHub Issue / Discussion, or via WeChat `dynn2018` / QQ `2536811576` (add "LIS" to the friend request).
 
 ## Images
 

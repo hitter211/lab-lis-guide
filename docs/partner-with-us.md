@@ -63,7 +63,9 @@ Commercial terms — pricing structure, project split and territory arrangements
 
 ## How to start a conversation
 
-**Preferred for overseas enquiries:** open a GitHub Issue or start a Discussion in this repository — asynchronous and time-zone friendly. Please do not post confidential institutional information in a public issue.
+**Email (worldwide): [2536811576@qq.com](mailto:2536811576@qq.com)** — subject `LIS partnership – <organisation>`. Email is best for RFPs, NDAs, partner agreements and document exchange, and works across time zones.
+
+**For quick technical questions:** open a GitHub Issue or start a Discussion in this repository — asynchronous and time-zone friendly. Please do not post confidential institutional information in a public issue.
 
 **For partners in China and APAC**, WeChat and QQ are fastest:
 

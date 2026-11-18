@@ -371,7 +371,9 @@ Engagement models: white-label / OEM, source-code licence, project partnership, 
 
 ## 17. Contact
 
-**Preferred for overseas enquiries:** open a **GitHub Issue** or start a **Discussion** in this repository — asynchronous, time-zone friendly, and it leaves a written record. Please do not post patient data or confidential institutional information in a public issue.
+**Email (worldwide): [2536811576@qq.com](mailto:2536811576@qq.com)** — put `LIS` and your organisation in the subject line. Email is the right channel for RFPs, NDAs, quotations and document exchange, and it works across time zones.
+
+**For quick technical questions:** open a **GitHub Issue** or start a **Discussion** in this repository — asynchronous, time-zone friendly, and it leaves a written record. Please do not post patient data or confidential institutional information in a public issue.
 
 **For partners in China and the APAC region**, WeChat and QQ are the fastest channels:
 
