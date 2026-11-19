@@ -1,5 +1,15 @@
 # LIS / LIMS Selection Guide for Small & Mid-Size Laboratories (2026)
 
+<div align="center">
+
+<b>LIS / LIMS source-code licence · custom development · single &amp; bidirectional instrument interfaces (ASTM / HL7 v2) · Xinchuang-ready build · regional laboratory networks · third-party lab LIMS · open to any form of partnership</b>
+
+<b>Email: 2536811576@qq.com　｜　WeChat: dynn2018　｜　QQ: 2536811576</b>
+
+</div>
+
+---
+
 > A practical buyer's guide to choosing a **Laboratory Information System** — for private labs, small hospital labs, public-health lab networks, EHR vendors who need a lab module, and instrument distributors.
 > Covers the US (CLIA / CAP / HIPAA), the EU & UK (GDPR / IVDR / UKAS), and the ISO 15189 world (70+ countries), plus the interoperability stack — LOINC, HL7 v2, FHIR R4, ASTM — that actually decides whether a system will work.
 >
