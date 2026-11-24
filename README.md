@@ -232,6 +232,8 @@ Plus the corrected-report and critical-value records in §4. A demo that cannot 
 **Where the money actually goes:** not the software, but **interfaces and validation**. A $30k LIS reaching $70k after interfaces, validation and training is normal. Negotiating those two lines is more effective than shaving the licence fee.
 
 > Worksheet: [Total cost of ownership worksheet (USD)](docs/tco-worksheet.md)
+>
+> Ranges answer "roughly how much". They do not answer "why is this bid three times that one". For that, see [Why two laboratory information system quotes are never comparable](docs/lis-quote-comparison.md) — a normalisation procedure to run before you negotiate.
 
 ---
 
@@ -427,6 +429,7 @@ Regulatory statements above are summarised from the issuing bodies; **always che
 **Evaluation & cost**
 - [RFP vendor scorecard (100 points)](docs/rfp-scorecard.md)
 - [Total cost of ownership worksheet (USD)](docs/tco-worksheet.md)
+- [Why two LIS quotes are never comparable](docs/lis-quote-comparison.md)
 - [Open-source LIS landscape](docs/open-source-lis-landscape.md)
 
 **Deployment & background**
