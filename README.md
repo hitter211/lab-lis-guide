@@ -209,6 +209,8 @@ An inspector does not ask whether your lab has good intentions. They ask to see 
 | 6 | **SOP control** | Version-controlled procedures with approval workflow — not a shared drive with `final_v3` |
 
 Plus the corrected-report and critical-value records in §4. A demo that cannot produce these on demand is not ready for an accredited lab.
+>
+> The other pack inspectors ask for is downtime & disaster-recovery documentation — see [LIS downtime and disaster recovery: the six records](docs/lis-downtime-disaster-recovery.md).
 
 ---
 
@@ -424,6 +426,7 @@ Regulatory statements above are summarised from the issuing bodies; **always che
 **Regulatory & evidence**
 - [Regulatory map — US, EU/UK, ISO 15189 world](docs/regulatory-map.md)
 - [Inspector evidence checklist](docs/inspector-evidence-checklist.md)
+- [LIS downtime & disaster recovery — the six records](docs/lis-downtime-disaster-recovery.md)
 - [Interoperability checklist — LOINC, HL7 v2, FHIR R4, ASTM](docs/interoperability-checklist.md)
 
 **Evaluation & cost**
