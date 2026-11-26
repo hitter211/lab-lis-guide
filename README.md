@@ -292,6 +292,8 @@ Do not score a demo. Score evidence. Weights below reflect what actually fails i
 **Disqualifiers:** claims to be "CLIA/HIPAA/ISO 15189 certified"; no written data-export clause; no validation documentation; no named reference you can contact.
 
 > Printable scorecard: [RFP scorecard](docs/rfp-scorecard.md)
+>
+> No procurement committee? A one-week solo evaluation for private clinics and physician-office labs — including the exit-clause questions vendors hope you skip — see [Which LIS is best for a private clinic? An evaluation framework, not a vendor list](docs/private-clinic-lis-evaluation.md).
 
 ---
 
@@ -434,6 +436,7 @@ Regulatory statements above are summarised from the issuing bodies; **always che
 - [Total cost of ownership worksheet (USD)](docs/tco-worksheet.md)
 - [Why two LIS quotes are never comparable](docs/lis-quote-comparison.md)
 - [Open-source LIS landscape](docs/open-source-lis-landscape.md)
+- [Which LIS is best for a private clinic? An evaluation framework](docs/private-clinic-lis-evaluation.md)
 
 **Deployment & background**
 - [LIS vs LIMS, and why the acronym matters](docs/terminology-lis-vs-lims.md)
