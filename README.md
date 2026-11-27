@@ -236,6 +236,8 @@ Plus the corrected-report and critical-value records in §4. A demo that cannot 
 > Worksheet: [Total cost of ownership worksheet (USD)](docs/tco-worksheet.md)
 >
 > Ranges answer "roughly how much". They do not answer "why is this bid three times that one". For that, see [Why two laboratory information system quotes are never comparable](docs/lis-quote-comparison.md) — a normalisation procedure to run before you negotiate.
+>
+> One site, one or two analysers, one biomedical scientist: the budget lines are smaller but the specification traps are different. See [Buying a LIS for a small or community laboratory](docs/small-lab-lis-procurement.md).
 
 ---
 
@@ -435,6 +437,7 @@ Regulatory statements above are summarised from the issuing bodies; **always che
 - [RFP vendor scorecard (100 points)](docs/rfp-scorecard.md)
 - [Total cost of ownership worksheet (USD)](docs/tco-worksheet.md)
 - [Why two LIS quotes are never comparable](docs/lis-quote-comparison.md)
+- [Buying a LIS for a small or community laboratory](docs/small-lab-lis-procurement.md)
 - [Open-source LIS landscape](docs/open-source-lis-landscape.md)
 - [Which LIS is best for a private clinic? An evaluation framework](docs/private-clinic-lis-evaluation.md)
 
